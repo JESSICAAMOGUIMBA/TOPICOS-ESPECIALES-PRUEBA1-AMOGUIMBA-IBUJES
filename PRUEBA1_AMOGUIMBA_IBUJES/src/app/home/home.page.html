@@ -1,0 +1,42 @@
+<ion-header>
+  <ion-toolbar>
+    <ion-icon name="battery-half-outline" style="padding-left: 25px;"></ion-icon>
+    <ion-title style="text-align: center;">
+      **MI AGENDA**
+    </ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content>
+  <ion-list class="ios list-ios hydrated">
+    
+    <ion-list-header class="ios hydrated">
+      Listado General
+    </ion-list-header>
+
+    <ion-item *ngFor="let booking of Bookings" class="user-list">
+      <ion-label>
+        <h5>
+          <ion-icon name="person" style="color: darkorange;" ></ion-icon> {{booking.name}}
+        </h5>
+        <p>
+          <ion-icon name="logo-whatsapp" style="color: darkgreen;"></ion-icon> {{booking.mobile}}
+        </p>
+        <p>
+          <ion-icon name="mail" style="color: darkred;"></ion-icon> {{booking.email}}
+        </p>
+        <ion-icon name="navigate"></ion-icon> {{booking.location}}
+      </ion-label>
+
+      <div class="item-note" item-end>
+        <button ion-button clear [routerLink]="['/edit-appointment/', booking.$key]">
+          <ion-icon name="create" style="zoom:2.0; color: teal;"></ion-icon>
+        </button>
+        <button ion-button clear (click)="deleteBooking(booking.$key)">
+          <ion-icon name="trash" style="zoom:2.0 ; color: tomato;"></ion-icon>
+        </button>
+      </div>
+    </ion-item>
+  </ion-list>
+</ion-content>
+  
