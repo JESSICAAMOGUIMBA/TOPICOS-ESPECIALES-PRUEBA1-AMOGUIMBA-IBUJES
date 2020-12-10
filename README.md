@@ -16,4 +16,4 @@ además este recopilará los datos ingresados y serán almacenados en tiempo rea
 * ICONOS: HTTPS://IONICONS.COM/
 * VIDEOS DE AYUDA: HTTPS://WWW.YOUTUBE.COM/WATCH?V=REGMME2FYKA
 * HTTPS://WWW.YOUTUBE.COM/WATCH?V=AMCVLAUTGX4 
-* VIDEO DE EXPLICACIÓN: HTTPS://YOUTU.BE/FONWLMAI4GM 
+* VIDEO DE EXPLICACIÓN: https://www.youtube.com/watch?v=FOnwLmAi4GM&t=1s
