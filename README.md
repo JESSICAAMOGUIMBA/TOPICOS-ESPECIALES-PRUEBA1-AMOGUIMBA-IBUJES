@@ -12,8 +12,8 @@ además este recopilará los datos ingresados y serán almacenados en tiempo rea
 
 
 # BIBLIOGRAFÍA:
-* BDD FIREBASE: HTTPS://CONSOLE.FIREBASE.GOOGLE.COM/U/0/PROJECT/CRUD2020B-A979D/SETTINGS/GENERAL/WEB:NJQYOGY4ZTKTZTMXNS00NWVKLTHJNTMTODYWNGZINZCYZJRK?HL=ES 
-* ICONOS: HTTPS://IONICONS.COM/
-* VIDEOS DE AYUDA: HTTPS://WWW.YOUTUBE.COM/WATCH?V=REGMME2FYKA
-* HTTPS://WWW.YOUTUBE.COM/WATCH?V=AMCVLAUTGX4 
+* BDD FIREBASE: https://console.firebase.google.com/u/0/project/crud2020b-a979d/database/crud2020b-a979d-default-rtdb/data?hl=es 
+* ICONOS: https://ionicons.com/
+* VIDEOS DE AYUDA: https://www.youtube.com/watch?v=REgMMe2fYKA&t=10s
+* https://www.youtube.com/watch?v=lDy6kdD7EmU&t=2884s  
 * VIDEO DE EXPLICACIÓN: https://www.youtube.com/watch?v=FOnwLmAi4GM&t=1s
